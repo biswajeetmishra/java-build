@@ -112,6 +112,7 @@
 			            <id>default-report</id>
 			            <phase>prepare-package</phase>
 			            <goals><goal>report</goal></goals>
+			            <-- demo -->
 			        </execution>
 			    </executions>
 			</plugin>
